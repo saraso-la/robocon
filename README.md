@@ -1,7 +1,7 @@
 # RoboCon
 
 Some weekly Coding Exercises for Homework to reinforce the work done in the practical sessions. 	
-Aimed at able students taking part in [Robocon](https://hr-robocon.org/)
+Aimed at able year 6 primary students taking part in [Robocon](https://hr-robocon.org/)
 
 ## Week 1
 
