@@ -21,6 +21,8 @@ Creation of a more sturdy Robot Prototype.
 Calibration of the Robot for Movement Rotation.
 Move robot forward, turn 180 and return to the same place.
 
+![wk3](week3_180.gif)
+
 # Week 4
 
 FreeCAD tutorial.
