@@ -27,3 +27,16 @@ Move robot forward, turn 180 and return to the same place.
 
 FreeCAD tutorial.
 Create prototype brackets with 3D printer.
+
+# Week 5
+
+Robot can find the marker
+
+![wk5](week5_find.gif)
+
+# Week 6
+
+Auto adjust on move towards marker.
+Chaos Monkey
+
+![wk6](week6_monkey.gif)
